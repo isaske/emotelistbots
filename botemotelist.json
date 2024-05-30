@@ -1,5 +1,17 @@
 [
     {
+        "name": "Fairy Float",
+        "id": "idle-floating",
+        "duration": 24,
+        "is_free": true
+    },
+    {
+        "name": "Fairy Twirl",
+        "id": "emote-looping",
+        "duration": 8,
+        "is_free": false
+    },
+    {
         "name": "Launch",
         "id": "emote-launch",
         "duration": 8,
