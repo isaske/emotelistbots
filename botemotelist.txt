@@ -1,4 +1,4 @@
-list[Emote] = [
+[
     Emote(name="Launch", id="emote-launch", duration=8, is_free=False),
     Emote(name="Rest", id="sit-idle-cute", duration=17.062613, is_free=False),
     Emote(name="Zombie", id="idle_zombie", duration=28.754937, is_free=False),
