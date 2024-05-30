@@ -1,9 +1,9 @@
 {
-    "floating": {
+    "fairy": {
         "id": "idle-floating",
         "tiempo": 24
     },
-    "fairy": {
+    "floating": {
         "id": "emote-looping",
         "tiempo": 8
     },
