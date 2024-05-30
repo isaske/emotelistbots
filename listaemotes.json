@@ -1,354 +1,354 @@
 {
-    "fairy": {
-        "id": "emote-looping",
-        "tiempo": 8
-    },
     "floating": {
         "id": "idle-floating",
         "tiempo": 24
     },
-    "kiss": {
-        "id": "emote-kiss",
-        "tiempo": 2.5
-    },
-    "shy": {
-        "id": "emote-shy",
-        "tiempo": 4
-    },
-    "cutey": {
-        "id": "emote-cutey",
-        "tiempo": 2.5
-    },
-    "pose5": {
-        "id": "emote-pose5",
-        "tiempo": 4
-    },
-    "pose3": {
-        "id": "emote-pose3",
-        "tiempo": 4.5
-    },
-    "pose1": {
-        "id": "emote-pose1",
-        "tiempo": 2.5
-    },
-    "pose8": {
-        "id": "emote-pose8",
-        "tiempo": 4
-    },
-    "pose7": {
-        "id": "emote-pose7",
-        "tiempo": 4.5
-    },
-    "frog": {
-        "id": "emote-frog",
-        "tiempo": 14
-    },
-    "confused": {
-        "id": "emote-confused",
+    "fairy": {
+        "id": "emote-looping",
         "tiempo": 8
     },
-    "hot": {
-        "id": "emote-hot",
-        "tiempo": 3.5
-    },
-    "curtsy": {
-        "id": "emote-curtsy",
-        "tiempo": 2
-    },
-    "bow": {
-        "id": "emote-bow",
-        "tiempo": 2.5
-    },
-    "celebrate": {
-        "id": "emoji-celebrate",
-        "tiempo": 3
-    },
-    "gagg": {
-        "id": "emoji-gagging",
-        "tiempo": 5
-    },
-    "flex": {
-        "id": "emoji-flex",
-        "tiempo": 1.5
-    },
-    "greedy": {
-        "id": "emote-greedy",
-        "tiempo": 4
-    },
-    "cursing": {
-        "id": "emoji-cursing",
-        "tiempo": 2
-    },
-    "lust": {
-        "id": "emote-lust",
-        "tiempo": 4
-    },
-    "thumb": {
-        "id": "emoji-thumbsup",
-        "tiempo": 2
-    },
-    "angry": {
-        "id": "emoji-angry",
-        "tiempo": 5
-    },
-    "tired": {
-        "id": "emote-tired",
-        "tiempo": 4
-    },
-    "wave": {
-        "id": "emote-wave",
-        "tiempo": 2
-    },
-    "sad": {
-        "id": "emote-sad",
-        "tiempo": 5
-    },
-    "fashion": {
-        "id": "emote-fashionista",
-        "tiempo": 5
-    },
-    "zombie": {
-        "id": "emote-zombierun",
-        "tiempo": 9
-    },
-    "weird": {
-        "id": "dance-weird",
-        "tiempo": 21
-    },
-    "superpose": {
-        "id": "emote-superpose",
-        "tiempo": 4
-    },
-    "energy": {
-        "id": "emote-energyball",
-        "tiempo": 7
-    },
-    "maniac": {
-        "id": "emote-maniac",
-        "tiempo": 4
-    },
-    "sword": {
-        "id": "emote-swordfight",
-        "tiempo": 5
-    },
-    "teleport": {
-        "id": "emote-teleporting",
-        "tiempo": 11
-    },
-    "float": {
-        "id": "emote-float",
-        "tiempo": 8
-    },
-    "teleki": {
-        "id": "idle-emote-telekinesis",
-        "tiempo": 10
-    },
-    "enth": {
-        "id": "idle-enthusiastic",
-        "tiempo": 15
-    },
-    "charging": {
-        "id": "emote-charging",
-        "tiempo": 8
-    },
-    "angel": {
-        "id": "emote-snowangel",
-        "tiempo": 5.5
-    },
-    "penny": {
-        "id": "dance-pennywise",
-        "tiempo": 0.5
-    },
-    "model": {
-        "id": "emote-model",
-        "tiempo": 6
-    },
-    "icecream": {
-        "id": "dance-icecream",
-        "tiempo": 14
-    },
-    "wrong": {
-        "id": "dance-wrong",
-        "tiempo": 12
-    },
-    "punk": {
-        "id": "emote-punkguitar",
-        "tiempo": 8
-    },
-    "guitar": {
-        "id": "idle-guitar",
-        "tiempo": 12
-    },
-    "sayso": {
-        "id": "idle-dance-tiktok4",
-        "tiempo": 15
-    },
-    "casual": {
-        "id": "idle-dance-casual",
-        "tiempo": 9
-    },
-    "tik10": {
-        "id": "dance-tiktok10",
-        "tiempo": 8
-    },
-    "tik9": {
-        "id": "dance-tiktok9",
-        "tiempo": 11
-    },
-    "sing": {
-        "id": "idle_singing",
-        "tiempo": 10.5
-    },
-    "snake": {
-        "id": "emote-snake",
-        "tiempo": 5
-    },
-    "shop": {
-        "id": "dance-shoppingcart",
-        "tiempo": 4
-    },
-    "russian": {
-        "id": "dance-russian",
-        "tiempo": 10
-    },
-    "tik2": {
-        "id": "dance-tiktok2",
-        "tiempo": 10
-    },
-    "bp": {
-        "id": "dance-blackpink",
-        "tiempo": 6
-    },
-    "stargazer": {
-        "id": "emote-stargazer",
-        "tiempo": 6
-    },
-    "tik8": {
-        "id": "dance-tiktok8",
-        "tiempo": 10
-    },
-    "pingui": {
-        "id": "dance-pinguin",
-        "tiempo": 11
-    },
-    "timejump": {
-        "id": "emote-timejump",
-        "tiempo": 4
-    },
-    "skating": {
-        "id": "emote-iceskating",
-        "tiempo": 8
-    },
-    "anime": {
-        "id": "dance-anime",
-        "tiempo": 8
-    },
-    "shy2": {
-        "id": "emote-shy2",
-        "tiempo": 5
-    },
-    "gotta": {
-        "id": "idle-toilet",
-        "tiempo": 20
-    },
-    "hyped": {
-        "id": "emote-hyped",
-        "tiempo": 8
-    },
-    "sleigh": {
-        "id": "emote-sleigh",
-        "tiempo": 13
-    },
-    "jingle": {
-        "id": "dance-jinglebell",
-        "tiempo": 10
-    },
-    "creepycute": {
-        "id": "emote-creepycute",
-        "tiempo": 7
-    },
-    "creepy": {
-        "id": "dance-creepypuppet",
-        "tiempo": 7
-    },
-    "repose": {
-        "id": "sit-relaxed",
-        "tiempo": 30
-    },
-    "boxer": {
-        "id": "emote-boxer",
-        "tiempo": 5
-    },
-    "nervous": {
-        "id": "idle-nervous",
-        "tiempo": 15
-    },
-    "astronaut": {
-        "id": "emote-astronaut",
-        "tiempo": 14
-    },
-    "scritchy": {
-        "id": "idle-wild",
-        "tiempo": 26
-    },
-    "kawai": {
-        "id": "dance-kawai",
-        "tiempo": 10
-    },
-    "touch": {
-        "id": "dance-touch",
-        "tiempo": 12
-    },
-    "kissing": {
-        "id": "emote-kissing-bound",
-        "tiempo": 6.5
-    },
-    "foryou": {
-        "id": "emote-gift",
-        "tiempo": 5
-    },
-    "cutesalute": {
-        "id": "emote-cutesalute",
-        "tiempo": 3
-    },
-    "cute": {
-        "id": "emote-cute",
-        "tiempo": 6
-    },
-    "tiktok": {
-        "id": "dance-tiktok11",
-        "tiempo": 9
-    },
-    "minijump": {
-        "id": "emote-pose6",
-        "tiempo": 6
-    },
-    "boom": {
-        "id": "emote-headblowup",
-        "tiempo": 12
-    },
-    "arabesque": {
-        "id": "emote-pose10",
-        "tiempo": 4
-    },
-    "jump": {
-        "id": "emote-celebrate",
-        "tiempo": 4
-    },
-    "pushit": {
-        "id": "dance-employee",
-        "tiempo": 6.5
-    },
-    "salute": {
-        "id": "emote-salute",
+    "bigjump": {
+        "id": "emote-celebrationstep",
         "tiempo": 3
     },
     "launch": {
         "id": "emote-launch",
         "tiempo": 8
     },
-    "bigjump": {
-        "id": "emote-celebrationstep",
+    "salute": {
+        "id": "emote-salute",
         "tiempo": 3
+    },
+    "pushit": {
+        "id": "dance-employee",
+        "tiempo": 6.5
+    },
+    "jump": {
+        "id": "emote-celebrate",
+        "tiempo": 4
+    },
+    "arabesque": {
+        "id": "emote-pose10",
+        "tiempo": 4
+    },
+    "boom": {
+        "id": "emote-headblowup",
+        "tiempo": 12
+    },
+    "minijump": {
+        "id": "emote-pose6",
+        "tiempo": 6
+    },
+    "tiktok": {
+        "id": "dance-tiktok11",
+        "tiempo": 9
+    },
+    "cute": {
+        "id": "emote-cute",
+        "tiempo": 6
+    },
+    "cutesalute": {
+        "id": "emote-cutesalute",
+        "tiempo": 3
+    },
+    "foryou": {
+        "id": "emote-gift",
+        "tiempo": 5
+    },
+    "kissing": {
+        "id": "emote-kissing-bound",
+        "tiempo": 6.5
+    },
+    "touch": {
+        "id": "dance-touch",
+        "tiempo": 12
+    },
+    "kawai": {
+        "id": "dance-kawai",
+        "tiempo": 10
+    },
+    "scritchy": {
+        "id": "idle-wild",
+        "tiempo": 26
+    },
+    "astronaut": {
+        "id": "emote-astronaut",
+        "tiempo": 14
+    },
+    "nervous": {
+        "id": "idle-nervous",
+        "tiempo": 15
+    },
+    "boxer": {
+        "id": "emote-boxer",
+        "tiempo": 5
+    },
+    "repose": {
+        "id": "sit-relaxed",
+        "tiempo": 30
+    },
+    "creepy": {
+        "id": "dance-creepypuppet",
+        "tiempo": 7
+    },
+    "creepycute": {
+        "id": "emote-creepycute",
+        "tiempo": 7
+    },
+    "jingle": {
+        "id": "dance-jinglebell",
+        "tiempo": 10
+    },
+    "sleigh": {
+        "id": "emote-sleigh",
+        "tiempo": 13
+    },
+    "hyped": {
+        "id": "emote-hyped",
+        "tiempo": 8
+    },
+    "gotta": {
+        "id": "idle-toilet",
+        "tiempo": 20
+    },
+    "shy2": {
+        "id": "emote-shy2",
+        "tiempo": 5
+    },
+    "anime": {
+        "id": "dance-anime",
+        "tiempo": 8
+    },
+    "skating": {
+        "id": "emote-iceskating",
+        "tiempo": 8
+    },
+    "timejump": {
+        "id": "emote-timejump",
+        "tiempo": 4
+    },
+    "pingui": {
+        "id": "dance-pinguin",
+        "tiempo": 11
+    },
+    "tik8": {
+        "id": "dance-tiktok8",
+        "tiempo": 10
+    },
+    "stargazer": {
+        "id": "emote-stargazer",
+        "tiempo": 6
+    },
+    "bp": {
+        "id": "dance-blackpink",
+        "tiempo": 6
+    },
+    "tik2": {
+        "id": "dance-tiktok2",
+        "tiempo": 10
+    },
+    "russian": {
+        "id": "dance-russian",
+        "tiempo": 10
+    },
+    "shop": {
+        "id": "dance-shoppingcart",
+        "tiempo": 4
+    },
+    "snake": {
+        "id": "emote-snake",
+        "tiempo": 5
+    },
+    "sing": {
+        "id": "idle_singing",
+        "tiempo": 10.5
+    },
+    "tik9": {
+        "id": "dance-tiktok9",
+        "tiempo": 11
+    },
+    "tik10": {
+        "id": "dance-tiktok10",
+        "tiempo": 8
+    },
+    "casual": {
+        "id": "idle-dance-casual",
+        "tiempo": 9
+    },
+    "sayso": {
+        "id": "idle-dance-tiktok4",
+        "tiempo": 15
+    },
+    "guitar": {
+        "id": "idle-guitar",
+        "tiempo": 12
+    },
+    "punk": {
+        "id": "emote-punkguitar",
+        "tiempo": 8
+    },
+    "wrong": {
+        "id": "dance-wrong",
+        "tiempo": 12
+    },
+    "icecream": {
+        "id": "dance-icecream",
+        "tiempo": 14
+    },
+    "model": {
+        "id": "emote-model",
+        "tiempo": 6
+    },
+    "penny": {
+        "id": "dance-pennywise",
+        "tiempo": 0.5
+    },
+    "angel": {
+        "id": "emote-snowangel",
+        "tiempo": 5.5
+    },
+    "charging": {
+        "id": "emote-charging",
+        "tiempo": 8
+    },
+    "enth": {
+        "id": "idle-enthusiastic",
+        "tiempo": 15
+    },
+    "teleki": {
+        "id": "idle-emote-telekinesis",
+        "tiempo": 10
+    },
+    "float": {
+        "id": "emote-float",
+        "tiempo": 8
+    },
+    "teleport": {
+        "id": "emote-teleporting",
+        "tiempo": 11
+    },
+    "sword": {
+        "id": "emote-swordfight",
+        "tiempo": 5
+    },
+    "maniac": {
+        "id": "emote-maniac",
+        "tiempo": 4
+    },
+    "energy": {
+        "id": "emote-energyball",
+        "tiempo": 7
+    },
+    "superpose": {
+        "id": "emote-superpose",
+        "tiempo": 4
+    },
+    "weird": {
+        "id": "dance-weird",
+        "tiempo": 21
+    },
+    "zombie": {
+        "id": "emote-zombierun",
+        "tiempo": 9
+    },
+    "fashion": {
+        "id": "emote-fashionista",
+        "tiempo": 5
+    },
+    "sad": {
+        "id": "emote-sad",
+        "tiempo": 5
+    },
+    "wave": {
+        "id": "emote-wave",
+        "tiempo": 2
+    },
+    "tired": {
+        "id": "emote-tired",
+        "tiempo": 4
+    },
+    "angry": {
+        "id": "emoji-angry",
+        "tiempo": 5
+    },
+    "thumb": {
+        "id": "emoji-thumbsup",
+        "tiempo": 2
+    },
+    "lust": {
+        "id": "emote-lust",
+        "tiempo": 4
+    },
+    "cursing": {
+        "id": "emoji-cursing",
+        "tiempo": 2
+    },
+    "greedy": {
+        "id": "emote-greedy",
+        "tiempo": 4
+    },
+    "flex": {
+        "id": "emoji-flex",
+        "tiempo": 1.5
+    },
+    "gagg": {
+        "id": "emoji-gagging",
+        "tiempo": 5
+    },
+    "celebrate": {
+        "id": "emoji-celebrate",
+        "tiempo": 3
+    },
+    "bow": {
+        "id": "emote-bow",
+        "tiempo": 2.5
+    },
+    "curtsy": {
+        "id": "emote-curtsy",
+        "tiempo": 2
+    },
+    "hot": {
+        "id": "emote-hot",
+        "tiempo": 3.5
+    },
+    "confused": {
+        "id": "emote-confused",
+        "tiempo": 8
+    },
+    "frog": {
+        "id": "emote-frog",
+        "tiempo": 14
+    },
+    "pose7": {
+        "id": "emote-pose7",
+        "tiempo": 4.5
+    },
+    "pose8": {
+        "id": "emote-pose8",
+        "tiempo": 4
+    },
+    "pose1": {
+        "id": "emote-pose1",
+        "tiempo": 2.5
+    },
+    "pose3": {
+        "id": "emote-pose3",
+        "tiempo": 4.5
+    },
+    "pose5": {
+        "id": "emote-pose5",
+        "tiempo": 4
+    },
+    "cutey": {
+        "id": "emote-cutey",
+        "tiempo": 2.5
+    },
+    "shy": {
+        "id": "emote-shy",
+        "tiempo": 4
+    },
+    "kiss": {
+        "id": "emote-kiss",
+        "tiempo": 2.5
     }
 }
