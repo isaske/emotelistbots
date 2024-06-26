@@ -1,4 +1,8 @@
 {
+    "blowkisses": {
+    "id": "emote-blowkisses",
+    "tiempo": 24
+    },
     "fairy": {
         "id": "idle-floating",
         "tiempo": 24
