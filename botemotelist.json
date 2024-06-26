@@ -1,5 +1,11 @@
 [
     {
+    "name": "Blowing Kisses",
+    "id": "emote-blowkisses",
+    "duration": 15,
+    "is_free": true
+    },
+    {
         "name": "Fairy Float",
         "id": "idle-floating",
         "duration": 24,
