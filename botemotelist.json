@@ -1,5 +1,11 @@
 [
     {
+    "name": "cheer",
+    "id": "dance-cheerleader",
+    "duration": 17,
+    "is_free": false
+    },
+    {
     "name": "Blowing Kisses",
     "id": "emote-blowkisses",
     "duration": 4,
