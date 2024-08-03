@@ -1,5 +1,11 @@
 [
     {
+    "name": "Fruity Dance",
+    "id": "dance-fruity",
+    "duration": 15,
+    "is_free": false
+    },
+    {
     "name": "cheer",
     "id": "dance-cheerleader",
     "duration": 17,
