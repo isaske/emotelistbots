@@ -1,5 +1,9 @@
 {
     "fairy": {
+        "id": "hcc-jetpack",
+        "tiempo": 20
+    },
+    "fairy": {
         "id": "idle-floating",
         "tiempo": 24
     },
