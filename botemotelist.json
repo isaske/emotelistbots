@@ -1,5 +1,11 @@
 [
     {
+    "name": "Ignition Boost",
+    "id": "hcc-jetpack",
+    "duration": 20,
+    "is_free": false
+    },
+    {
     "name": "Fruity Dance",
     "id": "dance-fruity",
     "duration": 12,
